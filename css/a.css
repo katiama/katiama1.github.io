@@ -1,0 +1,478 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 0.875em/1.38 Georgia;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  float: left;
+}
+
+.element {
+  float: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.text {
+  float: left;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  width: 109px;
+  height: 45px;
+  margin-top: 26px;
+  border: 2px solid rgb(111, 94, 255);
+  border-radius: 3px;
+  background-color: rgb(0, 15, 128);
+  text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-size: 1.143em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button:hover {
+  background-color: rgb(0, 23, 201);
+  text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+}
+
+._button:active {
+  background-color: rgb(0, 23, 201);
+  box-shadow: 3px 4px 5px 1px rgba(0, 0, 0, .5) inset;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+}
+
+._button:focus {
+  text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  text-decoration: underline;
+}
+
+.container-1 {
+  width: 92.625%;
+  min-width: 700px;
+  height: 2604px;
+  min-height: 1500px;
+  margin-left: 3.625%;
+}
+
+.container-2 {
+  width: 100%;
+  height: 228px;
+  margin-top: -5px;
+  background: url('../images/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg') rgba(0, 2, 64, 0.72);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.container-3 {
+  clear: both;
+  width: 107.9622132253%;
+  height: 2167px;
+  margin: 14px 0 0 -3.9052%;
+}
+
+.container-4 {
+  clear: both;
+  width: 100%;
+  height: 173px;
+  margin-top: 27px;
+  background-color: rgba(182, 219, 255, 0.78);
+}
+
+.element-1 {
+  position: relative;
+  clear: both;
+  z-index: 7;
+  width: 34%;
+  min-width: 270px;
+  height: 398px;
+  min-height: 397px;
+  margin: 21px 0 0 13.11719%;
+  background-image: url('../images/%D0%B0%D1%80%D1%81.jpg');
+  background-color: rgb(222, 222, 222);
+}
+
+.element-2 {
+  position: relative;
+  z-index: 8;
+  width: 34%;
+  min-width: 270px;
+  height: 398px;
+  min-height: 397px;
+  margin: 21px 0 0 6.1660199999%;
+  background-image: url('../images/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%BD.jpg');
+  background-color: rgb(222, 222, 222);
+}
+
+.element-3 {
+  position: relative;
+  clear: both;
+  z-index: 9;
+  width: 34%;
+  min-width: 270px;
+  height: 398px;
+  min-height: 397px;
+  margin: 15px 0 0 13.11719%;
+  background-image: url('../images/%D0%B4%D0%B8%D0%BC%D0%B0%D0%B0.jpg');
+  background-color: rgb(222, 222, 222);
+}
+
+.element-4 {
+  position: relative;
+  z-index: 10;
+  width: 34%;
+  min-width: 270px;
+  height: 398px;
+  min-height: 397px;
+  margin: 15px 0 0 6.11719%;
+  background-image: url('../images/%D1%81%D0%B5%D1%80%D1%91%D0%B6%D0%B0.jpg');
+  background-color: rgb(222, 222, 222);
+}
+
+.element-5 {
+  clear: both;
+  width: 34%;
+  min-width: 270px;
+  height: 398px;
+  min-height: 397px;
+  margin: 18px 0 0 34.49414%;
+  background-image: url('../images/%D0%BF%D0%B0%D1%88%D0%B0.jpg');
+  background-color: rgb(222, 222, 222);
+}
+
+.element-6 {
+  position: relative;
+  z-index: 29;
+  width: 4.375%;
+  height: 36px;
+  margin: 19px 0 0 9.99916%;
+  background-image: url('../images/instagram_PNG10.png');
+  background-color: rgb(222, 222, 222);
+}
+
+.element-7 {
+  position: relative;
+  z-index: 33;
+  width: 4.8582995951%;
+  height: 36px;
+  margin: 19px 0 0 6.34489%;
+  background-image: url('../images/vk.png');
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-8 {
+  position: relative;
+  clear: both;
+  z-index: 30;
+  width: 4.375%;
+  height: 36px;
+  margin: 28px 0 0 9.99916%;
+  background-image: url('../images/instagram_PNG10.png');
+  background-color: rgb(222, 222, 222);
+}
+
+.element-9 {
+  position: relative;
+  z-index: 35;
+  width: 12.7999999999%;
+  height: 36px;
+  margin: 28px 0 0 6.79825%;
+  background-image: url('../images/tnt.jpg');
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.text-1 {
+  width: 98.5%;
+  min-height: 204px;
+  margin: 13px 0 0 0.62416%;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+  font-size: 5em;
+  color: rgb(255, 255, 255);
+}
+
+.text-10 {
+  position: relative;
+  z-index: 15;
+  width: 39.25%;
+  min-height: 78px;
+  margin: 5px 0 0 2.875%;
+  padding-top: 15px;
+  padding-left: 10px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 2.5em;
+  color: rgb(255, 255, 255);
+}
+
+.text-11 {
+  position: relative;
+  clear: both;
+  z-index: 20;
+  width: 28.7988281249%;
+  min-height: 34px;
+  margin-left: 15.19336%;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 1.714em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-12 {
+  position: relative;
+  z-index: 19;
+  width: 28.7988281249%;
+  min-height: 34px;
+  margin-left: 12.04883%;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 1.714em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-13 {
+  position: relative;
+  clear: both;
+  z-index: 25;
+  width: 34%;
+  min-height: 33px;
+  margin: 16px 0 0 13.11719%;
+  padding: 5px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-family: Helvetica;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-14 {
+  position: relative;
+  z-index: 24;
+  width: 28.7988281249%;
+  min-height: 33px;
+  margin: 16px 0 0 8.92383%;
+  padding: 12px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-family: Helvetica;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-15 {
+  clear: both;
+  width: 34%;
+  min-height: 78px;
+  margin: 5px 0 0 34.49414%;
+  padding-top: 15px;
+  padding-left: 35px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 2.5em;
+  color: rgb(255, 255, 255);
+}
+
+.text-16 {
+  clear: both;
+  width: 28.7988281249%;
+  min-height: 34px;
+  margin-left: 37.19141%;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 1.714em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-17 {
+  clear: both;
+  width: 28.7988281249%;
+  min-height: 33px;
+  margin: 14px 0 0 37.19336%;
+  padding: 5px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-family: Helvetica;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-18 {
+  position: relative;
+  z-index: 31;
+  width: 22%;
+  min-height: 36px;
+  margin: 19px 0 0 0.87298%;
+  font-size: 1.429em;
+  color: rgb(0, 0, 0);
+}
+
+.text-19 {
+  position: relative;
+  z-index: 34;
+  width: 39%;
+  min-height: 36px;
+  margin: 19px 0 0 0.79285%;
+  font-size: 1.429em;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  clear: both;
+  width: 91.75%;
+  min-height: 94px;
+  margin: 24px 0 0 4.11719%;
+  padding-top: 10px;
+  border-radius: 10px;
+  background: rgb(95, 198, 246);
+  background: -webkit-linear-gradient(0deg, rgb(95, 198, 246) 0%, rgb(1, 0, 216) 87.85714285714286%, rgb(0, 21, 103) 100%) rgba(2, 18, 187, 0.93);
+  background:    -moz-linear-gradient(0deg, rgb(95, 198, 246) 0%, rgb(1, 0, 216) 87.85714285714286%, rgb(0, 21, 103) 100%) rgba(2, 18, 187, 0.93);
+  background:      -o-linear-gradient(0deg, rgb(95, 198, 246) 0%, rgb(1, 0, 216) 87.85714285714286%, rgb(0, 21, 103) 100%) rgba(2, 18, 187, 0.93);
+  background:     -ms-linear-gradient(0deg, rgb(95, 198, 246) 0%, rgb(1, 0, 216) 87.85714285714286%, rgb(0, 21, 103) 100%) rgba(2, 18, 187, 0.93);
+  background:         linear-gradient(450deg, rgb(95, 198, 246) 0%, rgb(1, 0, 216) 87.85714285714286%, rgb(0, 21, 103) 100%) rgba(2, 18, 187, 0.93);
+  text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-size: 3.429em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-20 {
+  position: relative;
+  z-index: 32;
+  width: 22%;
+  min-height: 36px;
+  margin: 28px 0 0 0.82237%;
+  font-size: 1.429em;
+  color: rgb(0, 0, 0);
+}
+
+.text-21 {
+  position: relative;
+  z-index: 36;
+  width: 22%;
+  min-height: 36px;
+  margin: 28px 0 0 0.79496%;
+  font-size: 1.429em;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  position: relative;
+  clear: both;
+  z-index: 12;
+  width: 34%;
+  min-height: 78px;
+  margin: 10px 0 0 13.11719%;
+  padding-top: 15px;
+  padding-left: 10px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 2.5em;
+  color: rgb(255, 255, 255);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 13;
+  width: 34%;
+  min-height: 78px;
+  margin: 10px 0 0 6.11719%;
+  padding-top: 15px;
+  padding-left: 10px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 2.5em;
+  color: rgb(255, 255, 255);
+}
+
+.text-5 {
+  position: relative;
+  clear: both;
+  z-index: 17;
+  width: 28.7999999999%;
+  min-height: 34px;
+  margin-left: 15.19336%;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 1.714em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-6 {
+  position: relative;
+  z-index: 18;
+  width: 28.7988281249%;
+  min-height: 34px;
+  margin-left: 12.09375%;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 1.714em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-7 {
+  position: relative;
+  clear: both;
+  z-index: 22;
+  width: 28.7999999999%;
+  min-height: 33px;
+  margin: 18px 0 0 15.99219%;
+  padding: 20px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-family: Helvetica;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-8 {
+  position: relative;
+  z-index: 23;
+  width: 34%;
+  min-height: 33px;
+  margin: 10px 0 0 8.49219%;
+  padding: 5px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-family: Helvetica;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-9 {
+  position: relative;
+  clear: both;
+  z-index: 14;
+  width: 34%;
+  min-height: 78px;
+  margin: 5px 0 0 13.11719%;
+  padding-top: 15px;
+  padding-left: 10px;
+  background-color: rgba(0, 81, 183, 0.99);
+  font-size: 2.5em;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-1 {
+  z-index: 2;
+  margin-left: 10%;
+}
+
+.container ._button-2 {
+  z-index: 3;
+  margin-left: 2.67383%;
+}
+
+.container ._button-3 {
+  z-index: 4;
+  margin-left: 3.27344%;
+}
+
+.container ._button-4 {
+  z-index: 5;
+  margin-left: 3.16602%;
+}
+
+.container ._button-5 {
+  z-index: 6;
+  margin-left: 2.78125%;
+}
